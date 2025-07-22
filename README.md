@@ -5,4 +5,4 @@
 3. Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.
 
 ## Data Link
-- <a href="https://bit.ly/3ZiHghb">Sales Data</a>
+- <a href="https://bit.ly/3ZiHghb">Sales Data of Order and Details</a>
